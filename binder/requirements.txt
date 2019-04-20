@@ -1,0 +1,15 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - ipython
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-image
+  - scikit-learn
+  - sympy
+  - os
+  - PIL
+  - re
+  - datetime
