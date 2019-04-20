@@ -6,5 +6,9 @@ Modefiled ImgAna_simplified from https://github.com/jianshengfeng/EOS1/blob/mast
 
 Analyse : takes data saved from ImgAna_simplified and visualize absorbance and concentrations 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BanafshehKhaki/EOS_img.git/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/BanafshehKhaki/EOS_img.git/master
 
  
