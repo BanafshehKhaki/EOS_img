@@ -1,16 +1,8 @@
 channels:
+  - conda-forge
   - defaults
-  - conda
 dependencies:
   - python=3.6
-  - pandas
-  - scikit-image
-  - scikit-learn
-  - sympy
-  - os
-  - PIL
-  - re
-  - datetime
   - cython
   - ipython
   - ipyparallel
@@ -19,3 +11,7 @@ dependencies:
   - matplotlib
   - mpi4py
   - networkx
+  - pandas
+  - scikit-image
+  - scikit-learn
+  - sympy
